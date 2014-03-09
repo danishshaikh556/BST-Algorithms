@@ -1,5 +1,5 @@
-
 1)Check if a tree is a Mirror Image of itself;
+---------------------------------------------------------------
 
 Solutn:
  
@@ -14,6 +14,7 @@ public boolean MirrorImage(Btree left,Btree right)
   
   
 2)Given an Inorder and PreOrder Sequence construct a BST
+------------------------------------------------------------------
 
 Solutn:
 
