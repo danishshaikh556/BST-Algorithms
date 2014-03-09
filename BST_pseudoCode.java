@@ -46,6 +46,7 @@ public Node buildTree(int[] in,int[] pre,int strt,int stop)
  }
  
  3) Height/Depth of tree
+ ---------------------------------------------------------
  
  Solutn: 
  
@@ -57,6 +58,7 @@ public Node buildTree(int[] in,int[] pre,int strt,int stop)
   }
   
 4) Given a sorted Array create a binary tree with minimal height
+---------------------------------------------------------------------------
 
 Solutn:
 
@@ -81,6 +83,7 @@ public Node MinimalHeigh( Node root, int[] a ,strt ,stop)
 
 
 5) Balanced Tree
+--------------------------------------------------------------------
 
 Solutn:
 
@@ -93,6 +96,7 @@ public boolean IsBalanced(Node root)
  }
  
  6) Check if a Tree is a valid BST 
+ -----------------------------------------------------------------
  
  Solutn:
  
